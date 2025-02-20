@@ -1,11 +1,11 @@
 # Nexus Testnet II Prover Node 
 
-## Method 1. Web Browser
+## Step 1. Web Browser
 Contribute to Nexus zkVM Prover : https://app.nexus.xyz/
 
 Connect Wallet, Email (use same if did testnet 1) and copy your prover_id
 
-## Method 2. Linux Server
+## Step 2. Linux Server
 - For Old User Do this step first
 ```console
 rm -rf .nexus
