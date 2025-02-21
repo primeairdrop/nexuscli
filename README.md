@@ -59,7 +59,7 @@ sudo curl https://cli.nexus.xyz/ | sh
 ---
 
 Error :
-If this error coming Killed or memory allocation of 8606711792 bytes failed Aborted (core dumped).
+If facing error - Killed or memory allocation of 8606711792 bytes failed Aborted (core dumped)
 
 *Run:*
 ```console
