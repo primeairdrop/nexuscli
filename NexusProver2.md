@@ -56,7 +56,13 @@ screen -S nexus
 sudo curl https://cli.nexus.xyz/ | sh
 ```
 - Enter prover id you copied from web browser
+Error :
+If facing error - Killed or memory allocation of 8606711792 bytes failed Aborted (core dumped)
 
+*Run:*
+```console
+sudo fallocate -l 10G /swapfile && sudo chmod 600 /swapfile && sudo mkswap /swapfile && sudo swapon /swapfile && echo ‘/swapfile none swap sw 0 0’ | sudo tee -a /etc/fstab****
+```
 ---
 - Done | Feel free to ask queries in telegram channel
 - Telegram - https://t.me/PrimeAirdrops_official
